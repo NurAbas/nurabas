@@ -1,12 +1,12 @@
 # nurabas
  programering 
- I'm [Nur], a [Your Role/Title] passionate about [Your Interests]. Welcome to my GitHub profile!
+ I'm Nur, a student passionate about networking . Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I'm currently learning [What you're learning].
-- 💼 I work at [Where you work].
-- 📫 You can reach me at [Your Email] or [Your Website].
+- 🌱 I'm currently learning web dep.
+- 💼 I study at polhemsskolan.
+- 📫 You can reach me at nurabas340@gmail.com.
 
 ## My Projects
 
@@ -18,9 +18,9 @@ Here are some of the projects I've been working on:
 
 ## Skills
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+- little html
+- little css
+- networking
 - ...
 
 ## Connect with Me
