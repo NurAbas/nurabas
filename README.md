@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🌱 I'm currently learning web dep.
+- 🌱 I'm currently learning Java script.
 - 💼 I study at polhemsskolan.
 - 📫 You can reach me at nurabas340@gmail.com.
 
