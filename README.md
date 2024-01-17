@@ -18,8 +18,8 @@ Here are some of the projects I've been working on:
 
 ## Skills
 
-- little html
-- little css
+- html
+- css
 - networking
 - ...
 
